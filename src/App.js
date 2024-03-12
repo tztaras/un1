@@ -17,6 +17,11 @@ function App() {
         >
           Learn React
         </a>
+        <p>ng and a non-root public URL.
+      Learn how to configure a non-root public URL by runn</p>
+        <div className="ewf">
+          <img src="/img/close-up-shot-pug.jpg" alt="" />
+        </div>
       </header>
     </div>
   );
